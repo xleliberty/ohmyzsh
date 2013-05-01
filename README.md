@@ -1,0 +1,4 @@
+ohmyzsh
+=======
+
+zsh config
